@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- Dies ist ein Beispiel für Adressen -->
+<?xml-stylesheet type="text/xsl" href="adressen.xsl" ?>
+<adressen>
+	<adresse>
+		<nachname>Meier</nachname>
+		<vorname>Hansi</vorname>
+		<anschrift>
+			<plz>12345</plz>
+			<str>Bahnhofstraße 22</str>
+			<ort>Berlin</ort>
+		</anschrift>
+		<anschrift>
+			<plz>12345</plz>
+			<str>Bahnhofstraße 23</str>
+			<ort>Berlin</ort>
+		</anschrift>		
+	</adresse>
+	<adresse>
+		<nachname>Müller</nachname>
+		<vorname>Susanne</vorname>
+		<anschrift>
+			<plz>54321</plz>
+			<str>Hauptstraße 1</str>
+			<ort>München</ort>
+		</anschrift>
+		<tel>089 1234567854</tel>
+	</adresse>
+</adressen> 
