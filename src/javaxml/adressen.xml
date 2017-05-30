@@ -17,6 +17,20 @@
 		</anschrift>		
 	</adresse>
 	<adresse>
+		<nachname>Schneider</nachname>
+		<vorname>Claudia</vorname>
+		<anschrift>
+			<plz>12345</plz>
+			<str>Berliner Straße 22</str>
+			<ort>Berlin</ort>
+		</anschrift>
+		<anschrift>
+			<plz>12345</plz>
+			<str>Bahnhofstraße 23</str>
+			<ort>Berlin</ort>
+		</anschrift>		
+	</adresse>        
+	<adresse>
 		<nachname>Müller</nachname>
 		<vorname>Susanne</vorname>
 		<anschrift>
